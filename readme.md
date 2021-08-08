@@ -1,2 +1,2 @@
 # IT301 Assignments
-OpenMP Practicals
+Parallel Computing(OpenMP) Practicals
