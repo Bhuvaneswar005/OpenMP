@@ -1,2 +1,2 @@
-# IT301 Assignments
-Parallel Computing(OpenMP) 
+# Parallel Computing(OpenMP) 
+IT301 Assignments
